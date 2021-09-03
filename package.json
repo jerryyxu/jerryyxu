@@ -1,0 +1,31 @@
+{
+  "name": "jerryyxu",
+  "version": "1.0.0",
+  "description": "<!--\r **jerryyxu/jerryyxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "build": "ncc build ./update.js -m",
+    "update-readme": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryyxu/jerryyxu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerryyxu/jerryyxu/issues"
+  },
+  "homepage": "https://github.com/jerryyxu/jerryyxu#readme",
+  "devDependencies": {
+    "@vercel/ncc": "^0.30.0",
+    "husky": "^7.0.0"
+  },
+  "Dependencies": {
+    "@actions/github": "^5.0.0",
+    "@vercel/ncc": "^0.30.0",
+    "args-parser": "^1.3.0"
+  }
+}
