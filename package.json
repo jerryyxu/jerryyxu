@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
-    "build": "ncc build index.js -m"
+    "build": "ncc build index.js -m",
+    "update-readme": "node ./dist/index.js"
   },
   "repository": {
     "type": "git",
