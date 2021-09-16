@@ -1,4 +1,5 @@
 ## ✍ 2021-09
+- [`this` 关键词](https://github.com/jerryyxu/jerryyxu/issues/9)
 - [`typeof null === 'Object'`](https://github.com/jerryyxu/jerryyxu/issues/8)
 - [CSS 中触发硬件加速的属性](https://github.com/jerryyxu/jerryyxu/issues/7)
 - [CSS 堵塞渲染 & JavaScript 堵塞解析](https://github.com/jerryyxu/jerryyxu/issues/6)
