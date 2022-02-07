@@ -1,3 +1,5 @@
+## ✍ 2022-02
+- [`oh-my-zsh` 更新日志](https://github.com/jerryyxu/jerryyxu/issues/11)
 ## ✍ 2021-09
 - [`this` 关键词](https://github.com/jerryyxu/jerryyxu/issues/9)
 - [`typeof null === 'Object'`](https://github.com/jerryyxu/jerryyxu/issues/8)
